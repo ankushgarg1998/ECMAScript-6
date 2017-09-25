@@ -1,4 +1,4 @@
-# Learning ES6
+# ES6 Summary
 
 ### VARIABLES
 - **var**
@@ -14,7 +14,7 @@
   - if const is used to decalre an object, its attributes may change.
 
 
-- __Approach__
+#### Approach
   - Use **const** by default.
   - Use **let** only if the value of the variable needs to be changed.
   - Never use **var**
