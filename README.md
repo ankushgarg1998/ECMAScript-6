@@ -50,12 +50,17 @@
   - Swapping
   - rest operator
 
-### FOR OF **LOOP**
+### LOOPS AND ITERABLES
   - All types of loops
   - The FOR-OF loop (usable on all iterables)
     -  Objects - For-in
 
-```javascript
-var s = "yo"
-console.log(s);
-```
+### Array Improvements
+  - Array.from() and Array.of()
+  - .find() and .findIndex()
+
+### Spread and Rest
+  - Examples
+  - Rest is different from spread, though they look similar.
+
+### Object Literal Updates
