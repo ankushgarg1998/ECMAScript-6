@@ -48,3 +48,14 @@
 - **Arrays**
   - order sensitive
   - Swapping
+  - rest operator
+
+### FOR OF **LOOP**
+  - All types of loops
+  - The FOR-OF loop (usable on all iterables)
+    -  Objects - For-in
+
+```javascript
+var s = "yo"
+console.log(s);
+```
